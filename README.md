@@ -18,5 +18,6 @@ Each directory corresponds to a “module” of the piscine:
 | :--- | :--- | :--- | :---: |
 | [Module_00](https://github.com/IntRogerYT/Module00) | Growing Code | Syntax, data types, conditionals, loops. | ![Static Badge](https://img.shields.io/badge/90%2F100-brightgreen) |
 | [Module_01](https://github.com/IntRogerYT/Module_01) | CodeCultivation | Classes, inheritance, decorators, @staticmethod, @classmethod. | ![Static Badge](https://img.shields.io/badge/87%2F100-brightgreen) |
+| [Module_02](https://github.com/IntRogerYT/Module_02) | GardenGuardian | Error handling, try/except blocks, finally block, raise errors | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
 ### 👤 Author
 Created by ***rcamps-v*** for 42 network.
