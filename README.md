@@ -11,7 +11,8 @@ Each directory corresponds to a “module” of the piscine:
 ```
 .
 ├── 📁 Module_00/          # Foundations, variables, lists.
-└── 📁 Module_01/          # Object-Oriented Programming (OOP).
+├── 📁 Module_01/          # Object-Oriented Programming (OOP).
+└── 📁 Module_02/          # Errors handling/raising (try/except).
 ```
 ### 📝 Module Summary
 | Module | Title | Key Concepts | Score |
