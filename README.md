@@ -12,13 +12,15 @@ Each directory corresponds to a “module” of the piscine:
 .
 ├── 📁 Module_00/          # Foundations, variables, lists.
 ├── 📁 Module_01/          # Object-Oriented Programming (OOP).
-└── 📁 Module_02/          # Errors handling/raising (try/except).
+├── 📁 Module_02/          # Errors handling/raising (try/except).
+└── 📁 Module_03/          # Sys/Math libs, and comprehensions
 ```
 ### 📝 Module Summary
-| Module | Title | Key Concepts | Score |
-| :--- | :--- | :--- | :---: |
-| [Module_00](https://github.com/IntRogerYT/Module00) | Growing Code | Syntax, data types, conditionals, loops. | ![Static Badge](https://img.shields.io/badge/90%2F100-brightgreen) |
-| [Module_01](https://github.com/IntRogerYT/Module_01) | CodeCultivation | Classes, inheritance, decorators, @staticmethod, @classmethod. | ![Static Badge](https://img.shields.io/badge/87%2F100-brightgreen) |
-| [Module_02](https://github.com/IntRogerYT/Module_02) | GardenGuardian | Error handling, try/except blocks, finally block, raise errors | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
+| Module | Title | Score |
+| :--- | :--- | :---: |
+| [Module_00](https://github.com/IntRogerYT/Module_00) | Growing Code | ![Static Badge](https://img.shields.io/badge/90%2F100-brightgreen) |
+| [Module_01](https://github.com/IntRogerYT/Module_01) | CodeCultivation | ![Static Badge](https://img.shields.io/badge/87%2F100-brightgreen) |
+| [Module_02](https://github.com/IntRogerYT/Module_02) | Garden Guardian | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
+| [Module_03](https://github.com/IntRogerYT/Module_03) | Data Quest | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
 ### 👤 Author
 Created by ***rcamps-v*** for 42 network.
