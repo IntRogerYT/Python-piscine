@@ -23,6 +23,7 @@ Each directory corresponds to a “module” of the piscine:
 | [Module_01](https://github.com/IntRogerYT/Module_01) | CodeCultivation | ![Static Badge](https://img.shields.io/badge/87%2F100-brightgreen) |
 | [Module_02](https://github.com/IntRogerYT/Module_02) | Garden Guardian | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
 | [Module_03](https://github.com/IntRogerYT/Module_03) | Data Quest | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
-| [Module_03](https://github.com/IntRogerYT/Module_04) | Archivist Training Protocol | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
+| [Module_04](https://github.com/IntRogerYT/Module_04) | Archivist Training Protocol | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
+| [Module_05](https://github.com/IntRogerYT/Module_05) | Code Nexus | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
 ### 👤 Author
 Created by ***rcamps-v*** for 42 network.
