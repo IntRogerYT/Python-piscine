@@ -14,7 +14,8 @@ Each directory corresponds to a “module” of the piscine:
 ├── 📁 Module_01/          # Object-Oriented Programming (OOP).
 ├── 📁 Module_02/          # Errors handling/raising (try/except/finally).
 ├── 📁 Module_03/          # Sys/Math libs, and comprehensions
-└── 📁 Module_04/          # Files management: open/close, write/read, stdin, stdout/stderr
+├── 📁 Module_04/          # Files management: open/close, write/read, stdin, stdout/stderr
+└── 📁 ...
 ```
 ### 📝 Module Summary
 | Module | Title | Score |
@@ -25,5 +26,6 @@ Each directory corresponds to a “module” of the piscine:
 | [Module_03](https://github.com/IntRogerYT/Module_03) | Data Quest | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
 | [Module_04](https://github.com/IntRogerYT/Module_04) | Archivist Training Protocol | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
 | [Module_05](https://github.com/IntRogerYT/Module_05) | Code Nexus | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
+| [Module_06](https://github.com/IntRogerYT/Module_06) | The Codex | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
 ### 👤 Author
 Created by ***rcamps-v*** for 42 network.
