@@ -27,5 +27,6 @@ Each directory corresponds to a “module” of the piscine:
 | [Module_04](https://github.com/IntRogerYT/Module_04) | Archivist Training Protocol | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
 | [Module_05](https://github.com/IntRogerYT/Module_05) | Code Nexus | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
 | [Module_06](https://github.com/IntRogerYT/Module_06) | The Codex | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
+| [Module_07](https://github.com/IntRogerYT/Module_07) | DataDeck | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
 ### 👤 Author
 Created by ***rcamps-v*** for 42 network.
