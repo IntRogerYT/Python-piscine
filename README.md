@@ -30,6 +30,6 @@ Each directory corresponds to a “module” of the piscine:
 | [Module_07](https://github.com/IntRogerYT/Module_07) | DataDeck | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
 | [Module_08](https://github.com/IntRogerYT/Module_08) | The Matrix | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
 | [Module_09](https://github.com/IntRogerYT/Module_09) | Cosmic Data | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
-| [Module_10](https://github.com/IntRogerYT/Module_10) | Cosmic Data | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
+| [Module_10](https://github.com/IntRogerYT/Module_10) | FuncMage | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
 ### 👤 Author
 Created by ***rcamps-v*** for 42 network.
