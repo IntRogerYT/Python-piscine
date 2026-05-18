@@ -20,7 +20,7 @@ Each directory corresponds to a “module” of the piscine:
 ### 📝 Module Summary
 | Module | Title | Score |
 | :--- | :--- | :---: |
-| [Module_00](https://github.com/IntRogerYT/Module_00) | Growing Code | ![Static Badge](https://img.shields.io/badge/90%2F100-brightgreen) |
+| [Module_00](https://github.com/IntRogerYT/Module_00) | Growing Code | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
 | [Module_01](https://github.com/IntRogerYT/Module_01) | CodeCultivation | ![Static Badge](https://img.shields.io/badge/87%2F100-brightgreen) |
 | [Module_02](https://github.com/IntRogerYT/Module_02) | Garden Guardian | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
 | [Module_03](https://github.com/IntRogerYT/Module_03) | Data Quest | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
